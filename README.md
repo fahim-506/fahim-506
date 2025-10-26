@@ -1,16 +1,22 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=33BFFF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Mohammed+Fahim;Machine+Learning+Student;Python+Developer;Lifelong+Learner)](https://git.io/typing-svg)
 
-<!--
-**fahim-506/fahim-506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Machine Learning Student** passionate about solving real-world problems using data and intelligent systems.  
+🧠 Currently learning **Python for Machine Learning** and exploring how algorithms learn from data.  
+💡 I enjoy turning data into insights and building interactive ML applications.  
+🚀 Always curious — always learning.
+
+---
+
+## 🧩 Tech Stack
+
+```text
+💻 Languages:      Python
+📚 Libraries:      Pandas, NumPy, Matplotlib, Seaborn
+⚙️ Frameworks:     FastAPI
+🗄️ Databases:      PostgreSQL, SQLite3, SQLAlchemy
+🌐 Web Basics:     HTML, CSS
+🧰 Tools:          VS Code, Jupyter Notebook
