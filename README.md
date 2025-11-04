@@ -6,7 +6,7 @@
 
 🎓 **Machine Learning Student** passionate about solving real-world problems using data and intelligent systems.  
 🧠 Currently learning **Python for Machine Learning** and exploring how algorithms learn from data.  
-💡 I enjoy turning data into insights and building interactive ML applications.  
+💡 I enjoy turning data into insights and building interactive .  
 🚀 Always curious — always learning.
 
 ---
