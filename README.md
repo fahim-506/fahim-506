@@ -16,7 +16,7 @@
 ```text
 💻 Languages:      Python
 📚 Libraries:      Pandas, NumPy, Matplotlib, Seaborn
-⚙️ Frameworks:     FastAPI, Flask
+⚙️ Frameworks:     FastAPI, Flask, Streamlit
 🗄️ Databases:      PostgreSQL, SQLite3, SQLAlchemy
 🌐 Web Basics:     HTML, CSS
 🧰 Tools:          VS Code, Jupyter Notebook
