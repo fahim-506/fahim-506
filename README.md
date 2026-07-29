@@ -14,7 +14,7 @@
 ## 🧩 Tech Stack
 
 ```text
-💻 Languages:      Python
+💻 Languages:      Python, C
 📚 Libraries:      Pandas, NumPy, Matplotlib, Seaborn
 ⚙️ Frameworks:     FastAPI, Flask, Streamlit
 🗄️ Databases:      PostgreSQL, SQLite3, SQLAlchemy
