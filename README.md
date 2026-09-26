@@ -14,10 +14,11 @@
 ## 🧩 Tech Stack
 
 ```text
-💻 Languages:      Python, C
-📚 Libraries:      Pandas, NumPy, Matplotlib, Seaborn
-⚙️ Frameworks:     FastAPI, Flask, Streamlit
-🗄️ Databases:      PostgreSQL, SQLite3, SQLAlchemy
-🌐 Web Basics:     HTML, CSS
-🧰 Tools:          VS Code, Jupyter Notebook
+💻 Languages: Python, C
+📚 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+🤖 Deep Learning: PyTorch, TensorFlow
+⚙️ Frameworks: FastAPI, Flask, Streamlit
+🗄️ Databases: PostgreSQL, SQLite3, SQLAlchemy
+🌐 Web Basics: HTML, CSS
+🧰 Tools: VS Code, Jupyter Notebook
 
